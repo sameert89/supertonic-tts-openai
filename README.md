@@ -58,7 +58,7 @@ Generates audio from the input text.
 
 ### Available Voices
 
-| Name | Gender | ID |
+| Name | Gender | Supertonic ID |
 |------|--------|----|
 | **Alex** | Male | M1 |
 | **James** | Male | M2 |
@@ -70,8 +70,6 @@ Generates audio from the input text.
 | **Jessica** | Female | F3 |
 | **Olivia** | Female | F4 |
 | **Emily** | Female | F5 |
-
-*Note: For compatibility with existing tools, standard OpenAI voice names (like `alloy`, `echo`) are mapped to the closest equivalent in this list.*
 
 ### Multilingual Support
 
