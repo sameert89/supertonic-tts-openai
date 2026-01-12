@@ -1,0 +1,26 @@
+# Rust build artifact
+/target/
+Cargo.lock
+
+# Output directory
+/results/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Debug
+*.pdb
+
+# Assets (Model files)
+assets
+
+# Cache 
+cache/
