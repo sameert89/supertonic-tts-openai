@@ -6,15 +6,6 @@ An OpenAI-compatible Text-to-Speech (TTS) server powered by **Supertonic 2**, a 
 >
 > This project is built upon the incredible [Supertonic 2](https://huggingface.co/Supertone/supertonic-2) model developed by **Supertone Inc.**
 
-## Features
-
-- **Lightning Fast**: Up to 167x real-time factor on consumer hardware.
-- **Multilingual**: Supports English (`en`), Korean (`ko`), Spanish (`es`), Portuguese (`pt`), and French (`fr`).
-- **Mixed-Language Support**: Generate audio with multiple languages in a single request.
-- **Efficient Caching**: Caches generated audio to disk to serve repeated requests instantly.
-- **Dockerized**: Easy to deploy with Docker.
-- **OpenAI Compatible**: Drop-in replacement for libraries expecting the OpenAI API format.
-
 ## Usage
 
 ### Cloning the repo and dependencies
