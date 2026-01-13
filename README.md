@@ -15,7 +15,7 @@ git clone https://github.com/sameert89/supertonic-tts-openai.git
 
 cd supertonic-tts-openai
 
-git clone git clone https://huggingface.co/Supertone/supertonic-2 assets
+git clone https://huggingface.co/Supertone/supertonic-2 assets
 ```
 
 ### 1. Run with Docker (Recommended)
